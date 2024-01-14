@@ -1,0 +1,17 @@
+{
+    "name": "alqaj/organization",
+    "description": "Model Has Organization",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alqaj\\Organization\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alliq Aji"
+        }
+    ],
+    "require": {}
+}
